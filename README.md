@@ -75,5 +75,5 @@ The key challenge is identifying the factors driving employees to leave.
 ---
 
 ## Screenshots / Demos
-![Dashboard Preview].(https://github.com/haleemaasadiya01/HR-Analytics-Dashboard/blob/main/HRAnalyticDashboard.png)
+![Dashboard Preview].(https://github.com/haleemaasadiya01/HR-Analytics-Dashboard/blob/main/HRAnalyticDashboard.png).
 This dashboard transforms raw HR data into meaningful insights, helping organizations reduce attrition and improve employee satisfaction through informed, data-driven strategies.
