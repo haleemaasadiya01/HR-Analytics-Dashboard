@@ -1,76 +1,61 @@
 # HR-Analytics-Dashboard
 
-## 🧭 Project Overview
+## 🔎 Overview
 
-This project is an interactive **HR Analytics Dashboard built using Power BI** to analyze employee data and uncover key factors behind attrition, workforce distribution, and organizational trends.
+This Power BI dashboard analyzes employee attrition patterns and workforce behavior to help organizations understand key factors influencing employee retention and turnover.
 
-The main objective is to help HR teams and decision-makers understand:
-- Why employees leave the company  
-- Which groups are most affected  
-- What patterns exist across departments, salary levels, education, and experience  
+The goal is to transform raw HR data into actionable insights that support better decision-making in HR strategy and workforce planning.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools & Technologies
 
-- **Power BI** – Data visualization & dashboard creation  
-- **Excel / CSV Dataset** – Data source & preprocessing  
-- **DAX (Data Analysis Expressions)** – KPIs and calculated measures  
-- **Power Query Editor** – Data cleaning & transformation  
+- Power BI (Data Visualization & Dashboard Development)
+- Power Query (Data Cleaning & Transformation)
+- DAX (KPIs & Measures)
+- Excel / Kaggle Dataset (Data Source)
 
 ---
 
 ## 📂 Data Source
 
-- Dataset sourced from **Kaggle**
+- Dataset: Kaggle (HR Analytics Employee Attrition Dataset)
 
 ---
 
-## ✨ Features & Highlights
+## 📊 Key Business Insights
 
-### 🔹 Business Problem
-Employee attrition is a major challenge for organizations, leading to increased hiring costs, loss of experienced talent, and reduced productivity.  
-The key challenge is identifying the factors driving employees to leave.
-
----
-
-### 🎯 Goal of the Dashboard
-- Identify patterns behind employee attrition  
-- Analyze workforce distribution across departments and roles  
-- Understand the impact of salary, age, and experience on attrition  
-- Provide actionable insights for HR decision-making  
+- Higher attrition observed in the 26–35 age group  
+- Employees in lower salary bands show higher turnover rates  
+- Certain roles like Laboratory Technician and Sales Executive have higher attrition  
+- Employee tenure significantly impacts retention patterns  
 
 ---
 
-### 📊 Walkthrough of Key Visuals
+## 🎯 Business Objective
 
-- **KPI Cards (Top Section):**  
-  Displays total employees, attrition count, attrition rate, average salary, age, and experience  
-
-- **Attrition by Age & Gender:**  
-  Shows which age groups and genders are most affected  
-
-- **Attrition by Education:**  
-  Highlights education backgrounds with higher attrition rates  
-
-- **Attrition by Salary Slab:**  
-  Shows how income levels impact employee retention  
-
-- **Attrition by Job Role:**  
-  Identifies roles with highest turnover  
-
-- **Attrition by Years at Company:**  
-  Tracks how employee tenure affects resignation trends  
+To identify patterns behind employee attrition and help HR teams make data-driven decisions to improve employee retention and reduce hiring costs.
 
 ---
 
-### 📈 Business Impact & Insights
+## 📌 Key Features
 
-- Early-career employees (especially ages **26–35**) show higher attrition  
-- Lower salary slabs are strongly associated with higher resignation rates  
-- Roles like **Laboratory Technician** and **Sales Executive** show higher turnover  
-- Helps HR teams focus on retention strategies, salary restructuring, and employee engagement programs  
-- Supports data-driven HR decision-making instead of intuition-based policies  
+- Interactive KPI Dashboard (Employees, Attrition Rate, Avg Salary, etc.)
+- Attrition analysis by Age, Gender, and Education
+- Salary vs Attrition breakdown
+- Job role-wise attrition comparison
+- Tenure-based employee behavior analysis
+
+---
+
+## 🚀 Learning Outcome
+
+This project helped me strengthen my understanding of:
+- Data visualization techniques
+- Business problem-solving using data
+- HR analytics use cases
+- Building interactive dashboards using Power BI
+
 
 ---
 
